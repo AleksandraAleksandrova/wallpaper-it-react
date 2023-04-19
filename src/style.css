@@ -124,7 +124,7 @@ ul {
 .nav-show li {
     padding: 6px 0;
     font-weight: 200;
-  }
+}
 
 .services {
     display: flex;
@@ -308,4 +308,31 @@ ul {
     border: none;
     background-color: white;
     font-size: 1rem;
+}
+
+.pagination {
+    justify-content: center;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pagination li {
+    margin: 0 0.7rem;
+}
+
+.pagination a {
+    display: inline-block;
+    padding: 1.1rem 1rem;
+    text-decoration: none;
+    color: black;
+    border-radius: 0.4rem;
+}
+
+.pagination .active a {
+    background-color: var(--mint);
+    color: white !important;
 }
