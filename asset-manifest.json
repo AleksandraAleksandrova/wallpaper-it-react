@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wallpaper-it-react/static/css/main.41a3ef92.css",
+    "main.js": "/wallpaper-it-react/static/js/main.a044da03.js",
+    "index.html": "/wallpaper-it-react/index.html",
+    "main.41a3ef92.css.map": "/wallpaper-it-react/static/css/main.41a3ef92.css.map",
+    "main.a044da03.js.map": "/wallpaper-it-react/static/js/main.a044da03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41a3ef92.css",
+    "static/js/main.a044da03.js"
+  ]
+}
